@@ -1,0 +1,25 @@
+
+WHY USE FRAMEWORKS?
+To re-use components to reduce overhead.
+1. Reading files
+2. Writing files
+3. Networking
+4. Data streams
+5. URL Strings
+6. Diagnostics
+7. Tests
+8. Debugger
+9. Error Codes
+
+
+WHAT IS NODE.JS?
+Javascript runtime using V8 engine.
+Run JS on local computers.
+Asynchronous event-driven
+Build application on a computer/server
+
+
+WHY USE NODE.JS?
+Javascript for both front-end and back-end
+Easy scaling, fast, non-blocking
+Huge ecosystem
