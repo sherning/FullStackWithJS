@@ -10,6 +10,22 @@
   - `cd /home`: navigates to /home directory.
   - `cd ..`: move up one file level.
 
+- **touch**: Create a new file.
+
+  - `touch file.txt`: create a new file `file.txt`.
+
+- **echo**: Create a new file with content.
+
+  - `echo "Some Text" > file.txt`: Creates a file with "Some Text".
+  - `echo > file.txt`: Creates an empty file.
+  - `> file.txt`: Creates an empty file.
+  - `echo "Hello" > file.txt`: Overwrites file with "Hello" if file exist, otherwise creates a file.
+  - `echo "World" >> file.txt`: Appends "World" to file.txt if file exist, otherwise creates a file.
+
+- **nano**: Opens the nano editor for editing text.
+
+  - `nano file.txt`: Opens nano editor with file name file.txt.
+
 - **pwd**: Displays the present working directory.
 
 - **cp**: Copies files and directories.
