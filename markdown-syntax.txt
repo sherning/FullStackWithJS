@@ -1,0 +1,55 @@
+
+HEADERS
+# Header 1
+## Header 2
+### Header 3
+
+EMPHASIS
+*italic* or _italic_
+**bold** or __bold__
+***bold italic*** or ___bold italic___
+
+LISTS
+* Item 1
+* Item 2
+  * Subitem 2.1
+  * Subitem 2.2
+
+1. Item 1
+2. Item 2
+   1. Subitem 2.1
+   2. Subitem 2.2
+
+LINKS
+[OpenAI](https://www.openai.com)
+
+IMAGES
+![Alt text](image-url.jpg)
+
+CODE BLOCK
+```python
+print("Hello, world!")
+
+BLOCK QUOTE
+> This is a blockquote.
+
+HORIZONTAL LINE
+---
+
+TABLES
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1    | Data     |
+| Row 2    | Data     |
+
+TASK LISTS
+- [x] Completed task
+- [ ] Incomplete task
+
+STRIKE THRU
+~~strikethrough~~
+
+ESCAPE CHARACTERS
+example below demonstrates when you need to use '*'
+\*Not italic*\
+
