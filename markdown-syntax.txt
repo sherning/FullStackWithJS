@@ -53,3 +53,6 @@ ESCAPE CHARACTERS
 example below demonstrates when you need to use '*'
 \*Not italic*\
 
+HIGHLIGHT
+`hello world` to highlight
+
