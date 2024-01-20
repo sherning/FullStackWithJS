@@ -56,3 +56,7 @@ example below demonstrates when you need to use '*'
 HIGHLIGHT
 `hello world` to highlight
 
+HYPERLINK
+[Click here to view the other file](OtherFile.md)
+[] -> what can be seen
+() -> hidden from viewer
