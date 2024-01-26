@@ -9,14 +9,12 @@ const flag = "🚩";
 
 // player 1's number
 const p1Num = randNum();
-const p1Html = ".container .img1";
 
 // player 2's number
 const p2Num = randNum();
-const p2Html = ".container .img2";
 
-document.querySelector(p1Html).outerHTML = getDiceHtml(p1Num, 1);
-document.querySelector(p2Html).outerHTML = getDiceHtml(p2Num, 2);
+document.querySelector(".container .img1").outerHTML = getDiceHtml(p1Num, 1);
+document.querySelector(".container .img2").outerHTML = getDiceHtml(p2Num, 2);
 
 if (p1Num > p2Num) titleElement.innerHTML = `${flag} Player 1 Win!`;
 else if (p1Num < p2Num) titleElement.innerHTML = `Player 2 Win! ${flag}`;
